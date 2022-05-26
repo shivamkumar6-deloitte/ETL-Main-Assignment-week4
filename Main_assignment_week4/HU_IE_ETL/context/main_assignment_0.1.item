@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_wbdd0NwQEeyR04DdIGE-OQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_wbdd0dwQEeyR04DdIGE-OQ" comment="" name="salesmini" prompt="salesmini?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/shivamkumar6/Documents/MainAssignment-Week4/samplee.csv"/>
+  <contextParameter xmi:id="_wbdd0twQEeyR04DdIGE-OQ" comment="" name="salesMain" prompt="salesMain?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/shivamkumar6/Documents/MainAssignment-Week4/Sales data (Clean).csv"/>
+  <contextParameter xmi:id="_51-JENwTEeyR04DdIGE-OQ" comment="" name="lookup" prompt="lookup?" promptNeeded="false" repositoryContextId="built-in" type="id_File" value="C:/Users/shivamkumar6/Documents/MainAssignment-Week4/lookup.csv"/>
+</talendfile:ContextType>
